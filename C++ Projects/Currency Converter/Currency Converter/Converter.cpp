@@ -135,8 +135,7 @@ public:
 		cout << "Press [ENTER] to go back to menu.";
 	}
 
-	~CurrencyConverter(){
-	}
+	~CurrencyConverter(){}
 };
 
 int main() {
